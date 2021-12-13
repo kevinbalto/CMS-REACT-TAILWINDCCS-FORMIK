@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Kevin Actualizado",
+      "empresa": "Microsoft",
+      "email": "kbaltodanoch@hotmail.es",
+      "telefono": "86635666",
+      "notas": "Hola",
+      "id": 1
+    },
+    {
+      "nombre": "Kevin",
+      "empresa": "Microsoft",
+      "email": "kbaltodanoch@hotmail.es",
+      "telefono": "86635666",
+      "notas": "Hola",
+      "id": 2
+    }
+  ]
+}
